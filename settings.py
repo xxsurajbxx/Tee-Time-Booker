@@ -1,8 +1,8 @@
 LOGIN_PAGE = "https://foreupsoftware.com/index.php/booking/20965#/login"
 
 CREDENTIALS = {
-"username" : "rock24x7@yahoo.com",
-"password" : "Ilovegolf22!"
+"username" : "email@gmail.com",
+"password" : "Password"
 }
 
 course = 3
